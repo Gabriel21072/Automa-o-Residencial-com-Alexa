@@ -2,15 +2,15 @@
 #include "SinricPro.h"
 #include "SinricProSwitch.h"
  
-#define WIFI_SSID         "damascenonet2"    
-#define WIFI_PASS         "multilaser1973"
-#define APP_KEY           "ee9de6ed-13dd-4954-a5bd-35294a1a3a15"      // O seu App Key é algo como "de0bxxxx-1x3x-4x3x-ax2x-5dabxxxxxxxx"
-#define APP_SECRET        "54d9af05-1fee-4b9f-bc73-30e9389e2681-308083e0-837f-444e-89cf-61d687a626c9"   // O seu App Secret é algo como "5f36xxxx-x3x7-4x3x-xexe-e86724a9xxxx-4c4axxxx-3x3x-x5xe-x9x3-333d65xxxxxx"
+#define WIFI_SSID         ""    // Nome do Wifi
+#define WIFI_PASS         ""    // Senha do Wifi
+#define APP_KEY           ""      // O seu App Key é algo como "de0bxxxx-1x3x-4x3x-ax2x-5dabxxxxxxxx"
+#define APP_SECRET        ""   // O seu App Secret é algo como "5f36xxxx-x3x7-4x3x-xexe-e86724a9xxxx-4c4axxxx-3x3x-x5xe-x9x3-333d65xxxxxx"
  
-#define Abajour_ID       "5ed12c5a3045f14787e485a7"    // Tomada 1
-#define Lampada_ID       "5ed12bf576b86a477f5e458b"    // Tomada 2
-#define Regua_ID         "5ed12c453045f14787e485a4"    // Tomada 3
-#define Ventilador_ID    "5ed12c7876b86a477f5e458f"    // Tomada 4
+#define Abajour_ID       ""    // Código Tomada 1
+#define Lampada_ID       ""    // Código Tomada 2
+#define Regua_ID         ""    // Código Tomada 3
+#define Ventilador_ID    ""    // Código Tomada 4
  
  
 #define Abajour_Pin 0  // O pino fisico onde está ligado
