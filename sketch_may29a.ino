@@ -2,15 +2,15 @@
 #include "SinricPro.h"
 #include "SinricProSwitch.h"
  
-#define WIFI_SSID         ""    // Nome do Wifi
-#define WIFI_PASS         ""    // Senha do Wifi
-#define APP_KEY           ""      // O seu App Key é algo como "de0bxxxx-1x3x-4x3x-ax2x-5dabxxxxxxxx"
-#define APP_SECRET        ""   // O seu App Secret é algo como "5f36xxxx-x3x7-4x3x-xexe-e86724a9xxxx-4c4axxxx-3x3x-x5xe-x9x3-333d65xxxxxx"
+#define WIFI_SSID         "Substituir pelo Nome do Wifi"    // Nome do Wifi
+#define WIFI_PASS         "Substituir pela Senha do Wifi"    // Senha do Wifi
+#define APP_KEY           "Substituir pelo App Key"      // O seu App Key é algo como "de0bxxxx-1x3x-4x3x-ax2x-5dabxxxxxxxx"
+#define APP_SECRET        "Substituir pelo App Secret"   // O seu App Secret é algo como "5f36xxxx-x3x7-4x3x-xexe-e86724a9xxxx-4c4axxxx-3x3x-x5xe-x9x3-333d65xxxxxx"
  
-#define Abajour_ID       ""    // Código Tomada 1
-#define Lampada_ID       ""    // Código Tomada 2
-#define Regua_ID         ""    // Código Tomada 3
-#define Ventilador_ID    ""    // Código Tomada 4
+#define Abajour_ID       "Substituir pelo Código Tomada 1"    // Código Tomada 1
+#define Lampada_ID       "Substituir pelo Código Tomada 2"    // Código Tomada 2
+#define Regua_ID         "Substituir pelo Código Tomada 3"    // Código Tomada 3
+#define Ventilador_ID    "Substituir pelo Código Tomada 4"    // Código Tomada 4
  
  
 #define Abajour_Pin 0  // O pino fisico onde está ligado
